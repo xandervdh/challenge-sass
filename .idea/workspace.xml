@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e74dd5a-8200-4169-93ad-45d1c8f615c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/challenge-sass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/red.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.css" beforeDir="false" afterPath="$PROJECT_DIR$/example.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/example.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.scss" beforeDir="false" afterPath="$PROJECT_DIR$/example.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,8 +34,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -35,6 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597044757762</updated>
-      <workItem from="1597044758924" duration="2130000" />
+      <workItem from="1597044758924" duration="12454000" />
     </task>
     <servers />
   </component>
@@ -57,14 +67,18 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="555" y="184" width="800" height="719" key="#Plugins/1920.0.1920.1200/0.27.1920.1053@0.27.1920.1053" timestamp="1597046451582" />
-    <state x="595" y="321" width="719" height="459" key="EditFileWatcherDialog" timestamp="1597046515858">
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597047375862">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="595" y="321" width="719" height="459" key="EditFileWatcherDialog/1920.0.1920.1200/0.27.1920.1053@0.27.1920.1053" timestamp="1597046515858" />
-    <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1597046520549">
+    <state x="693" y="289" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1200/0.27.1920.1053@0.27.1920.1053" timestamp="1597047375862" />
+    <state x="595" y="321" width="719" height="466" key="EditFileWatcherDialog" timestamp="1597064191011">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/1920.0.1920.1200/0.27.1920.1053@0.27.1920.1053" timestamp="1597046520549" />
+    <state x="595" y="321" width="719" height="466" key="EditFileWatcherDialog/1920.0.1920.1200/0.27.1920.1053@0.27.1920.1053" timestamp="1597064191011" />
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1597064193531">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="175" width="1022" height="737" key="SettingsEditor/1920.0.1920.1200/0.27.1920.1053@0.27.1920.1053" timestamp="1597064193531" />
     <state x="749" y="408" width="513" height="407" key="scopes" timestamp="1597044948077">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

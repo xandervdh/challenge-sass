@@ -6,6 +6,10 @@
 
 $padding: 8px;
 
+.red {
+  color: red;
+}
+
 body {
   font: 100% "Space Mono", monospace;
   color: #2748B3;
@@ -85,7 +89,7 @@ h6 {
   border: 1px solid #ccc;
   padding: $padding;
   color: #2748B3;
-  background-color: orange
+  background-color: orange;
   width: 100%
 }
 
